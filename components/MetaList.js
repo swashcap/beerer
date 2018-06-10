@@ -15,8 +15,11 @@ const styles = StyleSheet.create({
   }
 })
 
-const MetaList = ({ children }) => (
-  <View style={styles.container}>
+const MetaList = ({ children, style, ...props }) => (
+  <View
+    {...props}
+    style={[style, styles.container]}
+  >
     {React.Children.map(children, (child, index) => {
       const style = index === 0
         ? styles.item
