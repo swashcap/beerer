@@ -9,18 +9,18 @@ import colors from '../styles/colors'
 const styles = StyleSheet.create({
   body: {
     fontWeight: '500',
-    marginBottom: 5
+    marginBottom: 2
   },
   container: {
     alignItems: 'center',
     flexDirection: 'row',
-    paddingHorizontal: 24,
+    paddingHorizontal: 20,
     paddingVertical: 2
   },
   image: {
     borderRadius: 30,
     height: 60,
-    marginRight: 15,
+    marginRight: 10,
     width: 60
   },
   location: {
