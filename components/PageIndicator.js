@@ -34,9 +34,13 @@ const PageIndicator = ({
   count,
   current,
   onPress,
+  style,
   ...props
 }) => (
-  <View style={styles.container} {...props}>
+  <View
+    {...props}
+    style={[style, styles.container]}
+  >
     <View style={styles.containerInner}>
       {Array.from(new Array(count)).map((_, index) => {
         const style = index === current
