@@ -1,0 +1,9 @@
+```js
+<Carousel
+  images={[
+    'https://images.unsplash.com/photo-1444728399417-08d2aa39e6f4?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=a75d09107dd70d0e844460c45024ca3c&dpr=1&auto=format&fit=crop&w=1000&q=80&cs=tinysrgb',
+    '',
+    ''
+  ]}
+/>
+```
