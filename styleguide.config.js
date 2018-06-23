@@ -1,4 +1,6 @@
+const pkg = require('./package.json')
+
 module.exports = {
-  components: 'components/**/*.js',
-  title: 'React Primitives App'
+  components: 'packages/components/**/*.js',
+  title: pkg.name
 }
