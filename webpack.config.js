@@ -3,6 +3,9 @@ module.exports = {
     rules: [{
       exclude: /node_modules/,
       loader: 'babel-loader',
+      options: {
+        cacheDirectory: true
+      },
       test: /\.js$/
     }, {
       exclude: /node_modules/,
