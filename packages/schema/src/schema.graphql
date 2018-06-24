@@ -1,6 +1,6 @@
 type Brewery {
   name: String!
-  location: !String!
+  location: String!
 }
 
 type Query {

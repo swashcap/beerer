@@ -1,5 +1,5 @@
 const { buildSchema } = require('graphql')
-const { validateSchema } = require('graphql/types/validate.js')
+const { validateSchema } = require('graphql/type/validate.js')
 
 const schema = require('../src/index.js')
 
