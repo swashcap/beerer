@@ -7,7 +7,7 @@ const { buildSchema } = require('graphql')
 const resolvers = require('./resolvers/index.js')
 
 const IS_DEV = !(process.env.NODE_ENV === 'production')
-const PORT = process.env.PORT || 4000;
+const PORT = process.env.PORT || 4000
 
 const app = express()
 
@@ -22,7 +22,7 @@ app.use('/graphql', graphqlHTTP({
 if (require.main === module) {
   app.listen(PORT, (error) => {
     if (error) {
-      throw error;
+      throw error
     } else {
       console.log(`Server listening at http://localhost:${PORT}`)
     }

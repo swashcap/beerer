@@ -12,7 +12,6 @@ test('graphql route', () => supertest(app)
   })
   .expect(200)
   .then(({ body }) => {
-    expect(body.data && body.__schema);
+    expect(body.data && body.__schema)
   })
 )
-
