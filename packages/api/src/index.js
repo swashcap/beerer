@@ -11,7 +11,10 @@ const PORT = process.env.PORT || 4000
 
 const app = express()
 
-app.use(morgan(IS_DEV ? 'dev' : 'short'))
+if (process.env.NODE_ENV !== 'test') {
+  app.use(morgan(IS_DEV ? 'dev' : 'short'))
+}
+
 app.use('/graphql', graphqlHTTP({
   graphiql: IS_DEV,
   pretty: IS_DEV,
