@@ -1,0 +1,26 @@
+{
+  "name": "beerer-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/swashcap/beerer.git"
+  },
+  "author": "Cory Reed <swashcap@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/swashcap/beerer/issues"
+  },
+  "homepage": "https://github.com/swashcap/beerer#readme",
+  "dependencies": {
+    "beerer-schema": "1.0.0",
+    "express": "^4.16.3",
+    "express-graphql": "^0.6.12",
+    "graphql": "^0.13.2",
+    "morgan": "^1.9.0"
+  }
+}
