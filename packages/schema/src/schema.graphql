@@ -1,3 +1,8 @@
+type Brewery {
+  name: String!
+  location: !String!
+}
+
 type Query {
   hello: String
 }
