@@ -4,6 +4,7 @@
   "description": "",
   "main": "src/index.js",
   "scripts": {
+    "test": "echo 'no tests!'"
   },
   "repository": {
     "type": "git",
