@@ -1,0 +1,56 @@
+{
+  "dogfish-head": {
+    "name": "Dogfish Head",
+    "location": {
+      "city": "Milton",
+      "country": "USA",
+      "state": "Delaware"
+    },
+    "url": "https://www.dogfish.com"
+  },
+  "fort-george": {
+    "name": "Fort George Brewery",
+    "location": {
+      "city": "Astoria",
+      "country": "USA",
+      "state": "Oregon"
+    },
+    "url": "https://fortgeorgebrewery.com/"
+  },
+  "hair-of-the-dog": {
+    "name": "Hair of the Dog Brewing Company",
+    "location": {
+      "city": "Portland",
+      "country": "USA",
+      "state": "Oregon"
+    },
+    "url": "https://hairofthedog.com"
+  },
+  "holy-mountain": {
+    "name": "Holy Mountain Brewing",
+    "location": {
+      "city": "Seattle",
+      "country": "USA",
+      "state": "Washington"
+    },
+    "url": "https://www.facebook.com/HolyMountainBrewing/"
+  },
+  "modern-times": {
+    "name": "Modern Times Brewing",
+    "location": {
+      "city": "San Diego",
+      "country": "USA",
+      "state": "California"
+    },
+    "url": "http://www.moderntimesbeer.com"
+  },
+  "upright-brewing": {
+    "name": "Upright Brewing",
+    "location": {
+      "city": "Portland",
+      "country": "USA",
+      "state": "Oregon"
+    },
+    "url": "http://www.uprightbrewing.com"
+  }
+}

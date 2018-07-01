@@ -1,8 +1,22 @@
-type Brewery {
+type Beer {
+  # Alcohol by volume
+  abv: String
+  # Beer's creating brewery or breweries
+  brewery: [Brewery]!
+  description: String
+  ibu: String
+  id: ID!
   name: String!
+  style: String!
+}
+
+type Brewery {
+  id: ID!
   location: String!
+  name: String!
+  url: String
 }
 
 type Query {
-  hello: String
+  beers: [Beer]!
 }

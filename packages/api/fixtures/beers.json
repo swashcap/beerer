@@ -1,0 +1,47 @@
+[{
+  "abv": "12-14",
+  "brewery": "dogfish-head",
+  "description": "We took our unfiltered, unfettered, unprecedented Palo Santo Marron aged in handmade wooden brewing vessels and aged it in it in not one, but two kinds of wood!\n\nFirst, it spends a month aging in our 10,000-gallon Palo Santo tanks made from South American 'holy wood,' which provides layers of caramel and sandalwood. Then, it spends four more months in bourbon barrels for notes of oaky vanilla and coconut.\n\nBourbon Barrel-Aged Palo Santo is a draft offering that will also be making an appearance in a limited edition bottle release on June 16 at our Milton brewery!",
+  "ibu": 50,
+  "id": "1",
+  "name": "Bourbon Barrel-Aged Palo Santo Marron",
+  "style": "Barrel-Aged Brown Ale",
+  "url": "https://www.dogfish.com/brewery/beer/bourbon-barrel-aged-palo-santo-marron"
+}, {
+  "abv": "15-20",
+  "brewery": "dogfish-head",
+  "description": "Clocking in at 15-20% ABV, 120 Minute IPA is continuously hopped with a copious amount of high-alpha American hops throughout the boil and whirlpool, and then dry-hopped with another pallet of hops. Unfiltered and abundently hoppy, it's the Holy Grail for hopheads!",
+  "ibu": 120,
+  "id": 2,
+  "name": "120 Minute IPA",
+  "style": "Imperial IPA",
+  "url": "https://www.dogfish.com/brewery/beer/120-minute-ipa"
+}, {
+  "abv": "10",
+  "brewery": "hair-of-the-dog",
+  "description": "Adam is made with Northwest hops, Organic Pilsner malt and a variety of specialty grains. The flavors in this beer have been compared to chocolate, smoke, leather and figs. Brewed in loving memory of Adam Kerchival 11-30-69 | 02-26-05 Brewer and friend.",
+  "ibu": null,
+  "id": 3,
+  "name": "Adam",
+  "style": "Old World Ale",
+  "url": "https://hairofthedog.com/beers/"
+}, {
+  "abv": "8",
+  "brewery": "upright-brewing",
+  "description": "Pathways Saison is composed from casks of varying vintages, combining classic saison notes with modern expression",
+  "ibu": 20,
+  "id": 4,
+  "name": "Pathways Saison",
+  "style": "Saison",
+  "url": "http://www.uprightbrewing.com/bottles.html"
+}, {
+  "abv": "7.2",
+  "brewery": "fort-george,modern-times,holy-mountain",
+  "description": "Among the swelling base and heavily hopped riffs, a uniting dissonance appears. Wheat and oats load in sustained distortion and vast amounts of feedback. From the Juice yeast emerges an ethereal realm with suspended ambient fruit and lupulin resonance. Aromatic and resinous, the primal essence of Modern Times, Holy Mountain, and Fort George rises like a Monolith….no, make that a Triolith of IPA reverence. 3-Way IPA, reverbating across the Pacific Northwest starting June 2018.",
+  "ibu": null,
+  "id": 5,
+  "name": "3-Way IPA",
+  "style": "IPA",
+  "url": "https://fortgeorgebrewery.com/3-way-ipa/"
+}]
+
